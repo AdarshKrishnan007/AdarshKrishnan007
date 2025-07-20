@@ -1,13 +1,13 @@
 # 👋 Adarsh Krishnan | *Web Developer & AI Enthusiast*
 
 **`Creative Thinker | Web Developer | Final-Year MSc CS`**
-
+<div align="center">
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/adarshkrishnan)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
-
+</div>
 ## 🔥 About Me
 
 > Passionate developer from Palakkad, Kerala, with a focus on building real-world React apps, human-centered UIs, and smart web systems.

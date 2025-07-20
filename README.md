@@ -1,10 +1,18 @@
 # 👋 Adarsh Krishnan | *Web Developer & AI Enthusiast*
 
 **`Creative Thinker | Web Developer | Final-Year MSc CS`**
+<p align="center">
+  <a href="[https://linkedin.com/in/adarshkrishnanp](https://www.linkedin.com/in/adarshkrishnanp)">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"  height="30"/>
+  </a>
+  <a href="[https://github.com/AdarshKrishnan007](https://github.com/AdarshKrishnan007)">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"  height="30" />
+  </a>
+  <a href="mailto:adarshkrishnanpalayil@gamil.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"  height="30" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/your-profile)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/adarshkrishnan)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
 ## 🔥 About Me
@@ -34,16 +42,36 @@
 
 ## 🧰 Tech Stack
 
-### 👨‍🎨 Frontend  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)  
+<p align="center">
 
-### 🔧 Tools & Frameworks  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow)  
+<!-- Frontend -->
+<strong>👨‍🎨 Frontend</strong><br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
+<br><br>
+
+<!-- Tools & Frameworks -->
+<strong>🧠 AI, Tools & Frameworks</strong><br>
+<img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+
+<br><br>
+
+<!-- Dev Tools -->
+<strong>🛠️ Dev Tools</strong><br>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+
+</p>
 
 ---
 
@@ -55,6 +83,18 @@
 - 🎨 Working on reusable UI components & smart layout systems
 
 ---
+
+## 📊 **GitHub Analytics**
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdarshKrishnan007&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdarshKrishnan007&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AdarshKrishnan007&theme=radical&hide_border=true)
+
+</div>
 
 ## 📚 Current Focus
 
@@ -77,8 +117,98 @@
 
 ---
 
-## 🙌 Let's Connect!
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adarshkrishnanp))  
-[![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)](https://github.com/adarshkrishnan)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+### 🔍 **Looking for opportunities in:**
+
+</div>
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**💻 Frontend & Web Development**  
+<br>
+React, JavaScript, Tailwind, CSS  
+<br>
+UI/UX best practices & SEO  
+<br>
+Responsive, mobile-first designs
+
+</td>
+<td align="center" width="25%">
+
+**🧠 AI & Real-Time Projects**  
+<br>
+AI-based fitness game using pose detection  
+<br>
+TensorFlow.js, OpenCV, Flask  
+<br>
+Interactive, performance-optimized apps
+
+</td>
+<td align="center" width="25%">
+
+**🌍 Remote Collaboration**  
+<br>
+Worked on GitHub & async tools  
+<br>
+Group project on Bone Cancer Detection  
+<br>
+Comfortable in distributed teams
+
+</td>
+<td align="center" width="25%">
+
+**🚀 Growth & Learning**  
+<br>
+LeetCode & JS logic challenges  
+<br>
+Prompt engineering & AI in UI  
+<br>
+Self-driven learner via tutorials/blogs
+
+</td>
+</tr>
+</table>
+
+
+## 📫 **Get in Touch**
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarshkrishnanp)
+<br>
+**Professional Network**
+
+</td>
+<td align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://adarshkrishnanp-portfolio-website.netlify.app/)
+<br>
+**View My Work**
+
+</td>
+<td align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AdarshKrishnan007)
+<br>
+**Code Repository**
+
+</td>
+<td align="center">
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarshkrishnanpalayil@gamil.com)
+<br>
+**Direct Contact**
+
+</td>
+</tr>
+</table>
+
+</div>
+

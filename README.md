@@ -2,10 +2,10 @@
 
 **`Creative Thinker | Web Developer | Final-Year MSc CS`**
 <p align="center">
-  <a href="[https://linkedin.com/in/adarshkrishnanp](https://www.linkedin.com/in/adarshkrishnanp)">
+  <a href="https://www.linkedin.com/in/adarshkrishnanp">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"  height="30"/>
   </a>
-  <a href="[https://github.com/AdarshKrishnan007](https://github.com/AdarshKrishnan007)">
+  <a href="https://github.com/AdarshKrishnan007">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"  height="30" />
   </a>
   <a href="mailto:adarshkrishnanpalayil@gamil.com">

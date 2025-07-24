@@ -1,6 +1,6 @@
 # 👋 Adarsh Krishnan | *Web Developer & AI Enthusiast*
 
-**`Creative Thinker | Web Developer | Final-Year MSc CS`**
+**`Creative Thinker | Web Developer | MSc CS`**
 <p align="center">
   <a href="https://www.linkedin.com/in/adarshkrishnanp">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin"  height="30"/>
@@ -19,7 +19,7 @@
 
 > Passionate developer from Palakkad, Kerala, with a focus on building real-world React apps, human-centered UIs, and smart web systems.
 
-- 🎓 MSc Computer Science | Final Year | PG Student
+- 🎓 MSc Computer Science 
 - 🏛️ UG from Trivandrum | PG from Palakkad
 - 🌱 Currently upskilling in React, Logic Building, and AI Integration
 - 🧠 Always learning, building, and experimenting with ideas that matter
